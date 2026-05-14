@@ -4,6 +4,12 @@ This repository contains the project with all relevant files for the case study 
 
 Use this file to document your solutions and findings regarding the tasks of the case study.
 
+## Instructions
+
+1. Set your OpenAI API key in `.Renviron`. It will be loaded as an environment variable from there everytime you restart R (or when you open Positron).
+
+2. The data is provided separately. Copy the data in the `data/` folder.
+
 ## Task 1: Consolidation and Cleansing
 
 ✅ *This task was already done for you! Find the result in [`data/projekt-linse/menus_consolidated.csv`](data/projekt-linse/menus_consolidated.csv)
