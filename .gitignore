@@ -1,8 +1,7 @@
 data/projekt-linse
 .python-env
-.Renviron
 renv
 renv.lock
 .Rprofile
-data/menus_consolidated.csv
+data/
 .claude
