@@ -10,6 +10,8 @@ Use this file to document your solutions and findings regarding the tasks of the
 
 2. The data is provided separately. Copy the data in the `data/` folder.
 
+3. Solve the task in the [case study PDF](https://data.hands-on-computer-science.de/experiments/mensa/case-study-mensa.pdf) 😊
+
 ## Solution Documentation
 
 ### Task 1: Consolidation and Cleansing
