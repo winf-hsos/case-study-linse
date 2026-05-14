@@ -5,3 +5,4 @@ renv
 renv.lock
 .Rprofile
 data/menus_consolidated.csv
+.claude
