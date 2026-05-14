@@ -6,7 +6,7 @@ Use this file to document your solutions and findings regarding the tasks of the
 
 ## Task 1: Consolidation and Cleansing
 
-*Document your solution for the task, including your assumptions, here.*
+✅ *This task was already done for you! Find the result in [`data/projekt-linse/menus_consolidated.csv`](data/projekt-linse/menus_consolidated.csv)
 
 ## Task 2: Classification of Menu Items
 
